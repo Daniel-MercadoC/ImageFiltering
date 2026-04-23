@@ -1,5 +1,5 @@
 # ImageFiltering
-Tests and exploration for basic image filtering made for class at Querétaro's Autonomous University (UAQ by it's signals in spanish)
+Tests and exploration for basic image filtering made for class at Querétaro's Autonomous University (UAQ by it's signals in spanish) for the Master's course in Computational Systems.
 
 The files were made for better understanding how image filtering works, and C was chosen as an alternative to Python (which is recommended in class) for this project to better compare the differences between these two languages.
 
